@@ -1,0 +1,47 @@
+{
+    "system": "ethereum",
+    "network": "main",
+    "unit": "gwei",
+    "maxPrice": 95,
+    "currentBlockNumber": 13062470,
+    "msSinceLastBlock": 19613,
+    "blockPrices": [
+        {
+            "blockNumber": 13062471,
+            "baseFeePerGas": 54.754100642,
+            "estimatedTransactionCount": 310,
+            "estimatedPrices": [
+                {
+                    "confidence": 99,
+                    "price": 62,
+                    "maxPriorityFeePerGas": 8.1,
+                    "maxFeePerGas": 117.61
+                },
+                {
+                    "confidence": 95,
+                    "price": 59,
+                    "maxPriorityFeePerGas": 4.65,
+                    "maxFeePerGas": 114.16
+                },
+                {
+                    "confidence": 90,
+                    "price": 58,
+                    "maxPriorityFeePerGas": 4.09,
+                    "maxFeePerGas": 113.6
+                },
+                {
+                    "confidence": 80,
+                    "price": 57,
+                    "maxPriorityFeePerGas": 2.97,
+                    "maxFeePerGas": 112.48
+                },
+                {
+                    "confidence": 70,
+                    "price": 56,
+                    "maxPriorityFeePerGas": 2.02,
+                    "maxFeePerGas": 111.53
+                }
+            ]
+        }
+    ]
+}
