@@ -3,7 +3,7 @@ import { ethers } from "ethers";
 
 import metamask from "./mm.png"
 import "./App.css";
-import { analyseTxData, ArgDecoded } from "../lib/utils.js";
+import { analyseTxData, ArgDecoded } from "./lib/utils.js";
 import GnosisSafe from "./abis/gnosis.json";
 import ERC20 from "./abis/ERC20.json";
 
